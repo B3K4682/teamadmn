@@ -6,7 +6,7 @@ TeamAdmin is a web application (admin panel) for any use case. It is built with 
 
 1. Clone the repo
    ```sh
-   git clone 
+   git clone https://github.com/B3K4682/teamadmn.git
    ```
 2. Install NPM packages
 3. Run the app
